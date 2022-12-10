@@ -1,0 +1,23 @@
+
+.img{
+    height: 50vh;
+}
+
+.display{
+    margin-left: 4rem;
+}
+
+.navbar{
+    background-color: black !important;
+}
+
+
+.hm{
+    font-size: larger;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.table{
+    border: 1px solid black;
+}
